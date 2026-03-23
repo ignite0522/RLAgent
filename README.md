@@ -1,4 +1,4 @@
-# LangGraph CTF Agent
+# RL Agent
 
 ## 依赖安装
 `pip install -r requirements.txt`
