@@ -1,0 +1,14 @@
+python-dotenv
+langchain-core
+langchain-openai
+langgraph
+
+transformers
+torch
+peft
+tqdm
+
+fastapi
+uvicorn
+pydantic
+requests
