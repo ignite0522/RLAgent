@@ -1,5 +1,9 @@
 # RL Agent 中文
 
+## 详细说明
+
+更详细的说明文档，请参考[RLAgent详细说明 (PDF)](RLAgent.pdf)。
+
 ## 依赖安装
 `pip install -r requirements.txt`
 
@@ -28,6 +32,10 @@
 
 
 # RL Agent English
+
+## Detailed Documentation
+
+For a more detailed explanation, see the [RLAgent Documentation (PDF)](RLAgent.pdf).
 
 ## Dependency Installation
 `pip install -r requirements.txt`
