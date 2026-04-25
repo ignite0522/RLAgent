@@ -2,7 +2,7 @@
 
 ## 详细说明
 
-更详细的说明文档，请参考[RLAgent详细说明 (PDF)](RLAgent.pdf)。
+**本项目是我的一个分享议题，强烈大家看看更详细的说明文档，请参考[RLAgent详细说明 (PDF)](RLAgent.pdf)**
 
 ## 依赖安装
 `pip install -r requirements.txt`
